@@ -1,0 +1,7 @@
+{
+  "name": "Magical Particle Christmas Tree",
+  "description": "An immersive WebGL Christmas experience featuring a gesture-controlled particle tree, dynamic lighting, and interactive hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
